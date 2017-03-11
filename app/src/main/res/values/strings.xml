@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="q1">1- Enter the name of the mathematical term given 3.14159265</string>
+    <string name="q2">2- Which of the following can be arranged into a 5-letter English word?</string>
+    <string name="q3">3- What is 134 * 4  of the following can be arranged into a 5-letter English word?</string>
+    <string name="q4">4- How many inches are there in a foot?</string>
+    <string name="q5">5- Find the answer that best complete the analogy. Book is to Reading as Fork is to?</string>
+    <string name="yourScore">Your Score</string>
+</resources>
